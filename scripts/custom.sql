@@ -1,0 +1,2 @@
+-- Purpose: Custom SQL queries to be executed after the database is restored
+-- -----------------------------------------------------------------------------------
